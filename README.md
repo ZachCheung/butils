@@ -4,7 +4,7 @@
 
 Get whole submitted videos url of a member, fed into `annie -F` from [annie](https://github.com/iawia002/annie).
 
-#### Requirement
+#### Requirements
 
 * jq
 * curl
